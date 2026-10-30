@@ -3,6 +3,10 @@
 # dependencies
 node_modules/
 
+# other
+.claude
+README.MD
+
 # Expo
 .expo/
 dist/

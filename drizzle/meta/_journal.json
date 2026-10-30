@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1793222460124,
+      "tag": "0000_sticky_jackal",
+      "breakpoints": true
+    }
+  ]
+}
